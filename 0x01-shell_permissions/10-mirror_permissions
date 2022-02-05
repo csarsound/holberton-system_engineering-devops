@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u=rw,g=rw,o=r 0x01-shell_permissions/
+chmod --reference= olleh hello
