@@ -1,2 +1,2 @@
 #!/bin/bash
-if(chown == "guillaume") chown vincent hello
+chown --from=guillaume vicent hello
